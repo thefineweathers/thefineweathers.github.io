@@ -5,28 +5,26 @@ layout: default
 
 # WeNote
 
-Micro Record-helps you simply generate a list of actions, remember simple task items, record your mood diary, and quickly and easily create memos. 
+fine weather-----Simple and convenient weather forecast, give you a good mood for the day. -
 
 [中文](./zhcn)
 
 # Typical use-cases
 
-1. Used to record life and work.
+1. For simple and smooth control of weather conditions
 
 # How to use
 
+#  Settings
+1. Allow access to location information
 
+2. Allow access to the network 
 
 ## Usage
 
-1. List of actions
+1、 in the main interface pull, search the city, easy to modify the city
 
-Focus on the list of action lists and restore the simplest way to record actions.
-2. Concise Mandate matters
-
-Customize your task priorities to be more concise and concise.
-
-3. Memoranda Unique memos that let you stop forgetting important appointments.
+2、Drop-down view more detailed weather information 
 
 
 
